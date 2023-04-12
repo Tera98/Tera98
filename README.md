@@ -1,6 +1,13 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tera98&show_icons=true&theme=radical)
+### Hi there, I'm Wonyong An 👋
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/shyragon@naver.com-000000?style=flat&logo=gmail&logoColor=#EA4335"/></a>
+I'm currently learning the Web Backend (using Spring Boot).
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tera98&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tera98&layout=compact&theme=radical&langs_count=4)](https://github.com/tera98/github-readme-stats)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=awy0626)](https://solved.ac/awy0626)
+
+<a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/awy0626@gmail.com-000000?style=flat&logo=gmail&logoColor=#EA4335"/></a>
 
 
 
