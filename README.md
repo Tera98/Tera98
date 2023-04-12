@@ -16,7 +16,7 @@ Platforms & Languages
 
 Tools
 
-<a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/Intellijidea-000000?style=flat&logo=intellijidea&logoColor=FFFFFF"/></a>
+<a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=FFFFFF"/></a>
 <a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=FFFFFF"/></a>
 <a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF"/></a>
 <a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF"/></a>
