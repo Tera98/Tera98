@@ -3,7 +3,7 @@
 **Hi there, I'm Wonyong An 👋**
 I'm currently learning the Web Backend (using Spring Boot).
 
-<a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/awy0626@gmail.com-FFFFFF?style=flat&logo=gmail&logoColor=#EA4335"/></a>
+<a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/awy0626@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
 
 ### Skills 💪
 
