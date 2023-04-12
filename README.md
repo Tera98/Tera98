@@ -1,7 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tera98&show_icons=true&theme=radical)
 
-<a href="https://www.notion.so/cd26fd0b44ec4ca6a4ad2f281b50b346?v=9209b10fbc6845fdbeb2e969bea31795" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=000000"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=000000"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/shyragon@naver.com-000000?style=flat&logo=gmail&logoColor=#EA4335"/></a>
 
 
 
