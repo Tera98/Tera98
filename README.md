@@ -11,7 +11,7 @@ Platforms & Languages
 
 <a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=springboot&logoColor=FFFFFF"/></a>
 
-<a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/Java-EA4335?style=flat&logo=Java&logoColor=FFFFFF"/></a>
+<a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/Java-EA4335?style=flat&logo=java&logoColor=FFFFFF"/></a>
 <a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF"/></a>
 
 Tools
